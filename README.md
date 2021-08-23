@@ -1,2 +1,2 @@
 # PhotoEditor
-![Test Image 3](pheidt.png)
+![Test Image 3](/pheidt.PNG)
